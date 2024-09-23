@@ -14,3 +14,4 @@ def sorteio():
     ]
     sorteado = random.choice(equipe)
     return f'O escolhido para organizar nosso próximo hh é {sorteado}'
+
