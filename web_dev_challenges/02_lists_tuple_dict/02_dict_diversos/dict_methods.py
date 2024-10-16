@@ -42,4 +42,4 @@ def find_out_key_error():
         'Antônio': 9,
         'Maria': 7
     }
-    return my_dict['Maria José']
+    return my_dict['Maria']

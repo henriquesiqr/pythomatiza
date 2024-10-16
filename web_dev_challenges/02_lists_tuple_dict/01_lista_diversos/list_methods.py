@@ -1,6 +1,6 @@
 def sort_asc(my_list):
     # TODO: Retorne a lista de nomes recebida em ordem alfabética ascendente
-    return my_list.sort()
+    return sorted(my_list)
 
 def sort_desc(my_list):
     # TODO: Retorne a lista de nomes recebida em ordem alfabética descendente
